@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aedfa31f7dd07b4ab906fcd7367fb0c, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  bottomBlockCount: 20
+  blockWidth: 178.25
+  blockHeight: 178.25
+  blockSpacing: 10
+  blockSprites:
+  - {fileID: -464989700, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 1087496002, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 427518740, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 1845886591, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 1316239301, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: -788895627, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 1503423731, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: -1904647739, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 778921652, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: -2003007129, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 1669606679, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 595478330, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: -699402372, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: -839327680, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: -2128806157, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 629884781, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 38844570, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: -1081206969, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: 2101620058, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  - {fileID: -857436260, guid: 558c182655abf254c9940b35d33e64fd, type: 3}
+  defaultSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  maxHorizontalOffset: 0.5
+  placeAnimationDuration: 0.3
+  placeJumpHeight: 50
+  missAnimationDuration: 0.35
+  towerAreaMinY: 0.5
+  holeAreaMinX: 0
+  holeAreaMaxX: 0.25
+  holeAreaMinY: 0.5
+  saveKey: CubeTower
+  language: en
